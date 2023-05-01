@@ -17,11 +17,11 @@ For a better understanding of the [index methodology](https://github.com/OxCGRT/
 We compared these indices to the number of confirmed cases, number of confirmed deaths, and fatality ratio for each respective country. This data was retrieved from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
 Fatality ratios were calculated based on the WHO formula of total death/total confirmed.
 
-For our initial project proposal, see: https://github.com/lindbergag/GovernmentResponsesandImpactCoVID19/blob/main/ProjectProposal.pdf
+For our initial project proposal, see: [ProjectProposal.pdf](https://github.com/lindbergag/GovernmentResponsesandImpactCoVID19/blob/main/ProjectProposal.pdf)
 
-For the data cleaning, aggregation, manipulation, visualization, and analysis, see: https://github.com/lindbergag/GovernmentResponsesandImpactCoVID19/blob/main/ProjectProposal.pdf
+For the data cleaning, aggregation, manipulation, visualization, and analysis, see: [Final_Project.ipynb](https://github.com/lindbergag/GovernmentResponsesandImpactCoVID19/blob/main/Final_Project.ipynb)
 
-For our full write-up, see: https://github.com/lindbergag/GovernmentResponsesandImpactCoVID19/blob/main/FInalPaperandConclusions.pdf
+For our full write-up, see: [FInalPaperandConclusions.pdf](https://github.com/lindbergag/GovernmentResponsesandImpactCoVID19/blob/main/FInalPaperandConclusions.pdf)
 
 ## Requirements
 * Python 3.6+
