@@ -1,7 +1,9 @@
 # Government Responses and Impact on CoVID-19
 ## Impact of various government responses and policies on confirmed cases/fatality ratio of COVID-19
 
-This project aimed to get a better understanding of how different governmental policies and responses shaped the COVID-19 pandemic as of 9/21/2020. We compare the following countries and label their response to the pandemic:
+This project aimed to get a better understanding of how different governmental policies and responses shaped the COVID-19 pandemic as of 9/21/2020. We used data visualizations, descriptive analysis, and regression analysis using Pyspark. 
+
+We compare the following countries and label their response to the pandemic:
 - Sweden: presumed relaxed
 - United States: presumed moderate
 - South Korea: presumed strict
